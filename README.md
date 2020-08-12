@@ -16,7 +16,6 @@ Earning by college majors is a project about visualizing and analyzing data on e
 ![Screenshot 1](./dd1.PNG)
 ![Screenshot 2](./dd2.PNG)
 ![Screenshot 3](./dd3.PNG)
-![Screenshot 4](./dd4.PNG)
 ## Technologies
 Programming Language: Python
 Packages:
