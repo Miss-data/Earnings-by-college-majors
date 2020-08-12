@@ -13,7 +13,7 @@ Visualizing and analyzing data on earnings based on US college majors
 Earning by college majors is a project about visualizing and analyzing data on earnings based on US college majors.The project aim is to ease decision making while chosing college majors was created by providing information about college majors earnings, the ranking, employment rate, minimum and average wage. Inside the project, different graphs are used to do explanatory analysis and also one way anova test is run to see if there is a difference between the major category average earnings and if the difference is significant. The data is made up of 173 observations and 19 variables.
 
 ## Screenshots
-![Screenshot 1](Earnings-by-college-majors/dd1.PNG)
+![Screenshot 1](./dd1.PNG)
 ![Screenshot 2](Earnings-by-college-majors/dd2.PNG)
 ![Screenshot 3](Earnings-by-college-majors/dd3.PNG)
 ![Screenshot 4](Earnings-by-college-majors/dd4.PNG)
