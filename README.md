@@ -10,7 +10,7 @@ Visualizing and analyzing data on earnings based on US college majors
 * [Contact](#contact)
 
 ## General info
-This is an exploration data analysis on US college majors data.The project aim is to ease decision making while chosing college majors. Graphs are used for the explanatory analysis and also one way anova test is run to determine if there is a difference between the major category average earnings and if the difference is significant. The data has 173 observations and 19 variables.
+This is an exploration data analysis on US college majors dataset. The project aim is to ease decision making while chosing college majors. Graphs are used for the explanatory analysis and also one way anova test is run to determine if there is a difference between the major category average earnings and if the difference is significant. The data has 173 observations and 19 variables.
 
 ## Screenshots
 ![Screenshot 1](./dd1.PNG)
